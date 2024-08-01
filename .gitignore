@@ -4,6 +4,9 @@
 ## Get latest from httpsgithub.comgithubgitignoreblobmainVisualStudio.gitignore
 
 # User-specific files
+.objects/
+./history/
+.vscode/
 .rsuser
 .suo
 .user
